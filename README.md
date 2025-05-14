@@ -4,7 +4,7 @@
     "Model": "1%",
     "Backdrop": "1%",
     "Symbol": "1.8%",
-    "link": "t.me/nft/LunarSnake-112293",
+    "link": "https://t.me/nft/LunarSnake-112293",
     "sell": "aerpy",
     "Price": "250 T",
     "name": "LunarSnake"
@@ -14,9 +14,9 @@
     "Model": "1%",
     "Backdrop": "1%",
     "Symbol": "1.8%",
-    "link": "t.me/nft/LunarSnake-112293",
+    "link": "https://t.me/nft/LunarSnake-112293",
     "sell": "aerpy",
-    "Price": "250 T",
-    "name": "LunarSnake"
+    "Price": "200 T",
+    "name": "Lunarke"
   }
 ]

@@ -6,7 +6,7 @@
     "Symbol": "2.4%",
     "link": "http://t.me/nft/WitchHat-66056",
     "sell": "GOL_KAKO",
-    "Price": "350 T",
+    "Price": "450 T",
     "name": "WitchHat"
   },
   {

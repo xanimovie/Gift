@@ -16,7 +16,7 @@
     "Symbol": "0.3%",
     "link": "http://t.me/nft/HypnoLollipop-16511",
     "sell": "ID_IM_ERORR",
-    "Price": "430",
+    "Price": "430 T",
     "name": "HypnoLollipop"
   },
   {
